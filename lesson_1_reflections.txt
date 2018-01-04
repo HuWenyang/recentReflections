@@ -1,0 +1,25 @@
+Version control is hard at first but because natural, like riding a bike. 
+
+You can use quotes " " and mini ' ' (for folders with >1 word) to describe a file location 
+
+diff helps you identify the difference between individual lines, so say one file had
+
+dif 
+dif on line 1 and 2
+
+the other:
+
+dif 
+hi
+
+first line is the same and second is different. 
+
+If you manually commit, then you are able to track the logical changes in your code. You can go back to different sections of your code and see what you did different. Because code is divided into chunks, you would be able to compare different chunks of code. These different versions would always be able to compile. 
+
+If you save automatically, you will have more version available in case there was a version you should have committed but failed to do so. However, a lot of these versions won't compile so you wouldn't be able to run your code and see things from the UI point of view for instance. If there was an asteroid game and you changed the color to green, but before you could add the final semi colon the file saved, then later down the line you go back to this previous version. You kind of forgot what this version did, so you run it to see the different. but it doesn't run. In contrast if you manually saved it, then the game would be green and you would be like, okay that's one thing that changed, where's that in the code. You might not need to do this because git would show you the difference between lines, but if it was a long program and many differences, this could be one thing that stands out and you can go looking for that section that changes the color to green. 
+
+You want to save multiple files at once and track the differences between collections of these files when coding because usually code is interrelated.
+
+If files are not interrelated, then it's not really necessary to track all files as a collection. 
+
+When I ues git diff, I should first input the older one, and then the newer one to see the changes. This makes sense because it's like okay the old recipe and the new recipe, what did i add to this, and what did i take way. you don't say, what did i take away and what did i add from the new to the old. +
