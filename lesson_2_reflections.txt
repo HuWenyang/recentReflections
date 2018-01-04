@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You need to do it because a git repository will have a .git directory that tracks the changes done to the files in the repository. When you initialize a repository, there are no commits because you should put in your own message when you have all the file sready for the first commit. 
+
+How is the staging are adifferent from the workign directory and the repository. What value do you think it offers?
+
+Right now, onlly lessons_1_reflections is to be commmitted to the repository. lesson_2 is still untracked. whatever commits I make to this branch, lesson_2 will still be in the directory on my harddrive. 
