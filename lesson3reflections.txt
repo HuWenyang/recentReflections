@@ -1,0 +1,3 @@
+Why would you want to use a remote repository?
+
+I would want to use a remote repository when I am collaborating with someone. We could push our files onto the online repository and also pull files onto our local respoitory 
